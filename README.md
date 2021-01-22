@@ -20,7 +20,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] User can move items to change their order
+* [ ] Clean UI to look cleaner
+* [ ] Add the ability to create more lists
 
 ## Video Walkthrough
 
