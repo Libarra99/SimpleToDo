@@ -34,11 +34,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I would forget a line of code causing the application to crash, slowly going through the code and reviewing the video allowed me to fix the problem.
+
+Navigating through Android studios for the first time gave me trouble but I was able to understand it more during this assignment.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Luis Ibarra]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
